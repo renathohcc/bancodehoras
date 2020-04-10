@@ -14,3 +14,4 @@ elif sinal == "*":
 elif sinal == "/":
     n3 = n1/n2
     print("Resultado: " + str(n3))
+print("Fim da acao")
